@@ -1,1 +1,2 @@
-
+unlocker = d84fbe00a685f25c3e3f52db43d63b06
+beta_binary = c7148a33d7dea696012adac714b6d4f0
